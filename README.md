@@ -1,2 +1,1 @@
-# live-color-detection
-# live-color-detection
+# live-color-detection 🔍
